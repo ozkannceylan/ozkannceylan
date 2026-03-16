@@ -2,6 +2,8 @@
 
 **AI & Robotics Engineer | Embodied AI, Robot Learning, Simulation, Control**
 
+I am an AI & Robotics Engineer with a background in mechatronics and applied AI, focused on building embodied systems that connect perception, reasoning, simulation, and control. My work spans robot learning, physics-based simulation, intelligent tooling, and production-oriented AI applications.
+
 Berlin, Germany  
 [Portfolio](https://ozkanceylan.dev) • [LinkedIn](https://linkedin.com/in/ozkannceylan) • [Email](mailto:ozkannceylan@gmail.com)
 
