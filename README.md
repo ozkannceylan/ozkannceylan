@@ -1,4 +1,4 @@
-# Mehmet Özkan Ceylan
+# Ozkan Ceylan
 
 **AI & Robotics Engineer | Embodied AI, Robot Learning, Simulation, Control**
 
